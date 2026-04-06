@@ -1,0 +1,10 @@
+.title {
+  background-color: bisque;
+  text-align: center;
+  font-family: "Times New Roman";
+}
+
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+}
